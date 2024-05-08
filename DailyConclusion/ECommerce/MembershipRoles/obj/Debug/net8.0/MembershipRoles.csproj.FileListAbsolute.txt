@@ -1,0 +1,6 @@
+D:\TAP\TFLEcommrece\TFLECommerce\ConsoleSolution\ECommerce\MembershipRoles\obj\Debug\net8.0\MembershipRoles.csproj.AssemblyReference.cache
+D:\TAP\TFLEcommrece\TFLECommerce\ConsoleSolution\ECommerce\MembershipRoles\obj\Debug\net8.0\MembershipRoles.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\TFLEcommrece\TFLECommerce\ConsoleSolution\ECommerce\MembershipRoles\obj\Debug\net8.0\MembershipRoles.AssemblyInfoInputs.cache
+D:\TAP\TFLEcommrece\TFLECommerce\ConsoleSolution\ECommerce\MembershipRoles\obj\Debug\net8.0\MembershipRoles.AssemblyInfo.cs
+D:\TAP\TFLEcommrece\TFLECommerce\ConsoleSolution\ECommerce\MembershipRoles\obj\Debug\net8.0\MembershipRoles.csproj.CoreCompileInputs.cache
+D:\TAP\TFLEcommrece\TFLECommerce\ConsoleSolution\ECommerce\MembershipRoles\obj\Debug\net8.0\MembershipRoles.sourcelink.json
