@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.sourcelink.json
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.exe
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.deps.json
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.runtimeconfig.json
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.dll
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\bin\Debug\net8.0\BankingDelegationApp.pdb
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.dll
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\refint\BankingDelegationApp.dll
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.pdb
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\BankingDelegationApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BankingDelegationApp\BankingDelegationApp\obj\Debug\net8.0\ref\BankingDelegationApp.dll
