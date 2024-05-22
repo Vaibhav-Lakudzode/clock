@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\SchoolManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88405304-F44A-4573-8DB3-D809C618D4D8}|SchoolManagementSystem\\SchoolManagementSystem.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\schoolmanagementsystem\\schoolmanagementsystem\\admin\\adminmst.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{88405304-F44A-4573-8DB3-D809C618D4D8}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\admin\\adminmst.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88405304-F44A-4573-8DB3-D809C618D4D8}|SchoolManagementSystem\\SchoolManagementSystem.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\schoolmanagementsystem\\schoolmanagementsystem\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{88405304-F44A-4573-8DB3-D809C618D4D8}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88405304-F44A-4573-8DB3-D809C618D4D8}|SchoolManagementSystem\\SchoolManagementSystem.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\schoolmanagementsystem\\schoolmanagementsystem\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{88405304-F44A-4573-8DB3-D809C618D4D8}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\SchoolManagementSystem\\SchoolManagementSystem\\Admin\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Admin\\AdminHome.aspx",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\SchoolManagementSystem\\SchoolManagementSystem\\Admin\\AdminHome.aspx",
+              "RelativeToolTip": "SchoolManagementSystem\\Admin\\AdminHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T17:18:46.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\SchoolManagementSystem\\SchoolManagementSystem\\Content\\Style.css",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Content\\Style.css",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\SchoolManagementSystem\\SchoolManagementSystem\\Content\\Style.css",
+              "RelativeToolTip": "SchoolManagementSystem\\Content\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T17:14:48.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminMst.Master",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\SchoolManagementSystem\\SchoolManagementSystem\\Admin\\AdminMst.Master",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Admin\\AdminMst.Master",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\SchoolManagementSystem\\SchoolManagementSystem\\Admin\\AdminMst.Master",
+              "RelativeToolTip": "SchoolManagementSystem\\Admin\\AdminMst.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T17:03:39.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
