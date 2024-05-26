@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clock\\clock\\BloggerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerscontrollerwebapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|solutionrelative:bloggerscontrollerwebapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D30D79-D519-43A8-AE9F-3EBD976E2F5F}|WebApi\\WebApi.csproj|d:\\clock\\clock\\bloggersolution\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D30D79-D519-43A8-AE9F-3EBD976E2F5F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|solutionrelative:bloggerswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerswebapi\\bloggerswebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|solutionrelative:bloggerswebapi\\bloggerswebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerswebapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|solutionrelative:bloggerswebapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerswebapi\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|solutionrelative:bloggerswebapi\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerswebapi\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|solutionrelative:bloggerswebapi\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerswebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|solutionrelative:bloggerswebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\blograzorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\blograzorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerscontrollerwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|solutionrelative:bloggerscontrollerwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerscontrollerwebapi\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|solutionrelative:bloggerscontrollerwebapi\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerscontrollerwebapi\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|solutionrelative:bloggerscontrollerwebapi\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\post.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\post.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerscontrollerwebapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F25182-A848-4535-9F30-8F985A7E9CA2}|BloggersControllerWebAPI\\BloggersControllerWebAPI.csproj|solutionrelative:bloggerscontrollerwebapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|d:\\clock\\clock\\bloggersolution\\bloggerswebapi\\bloggerswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E636DADF-B77D-4153-B1C6-0110BF27811A}|BloggersWebAPI\\BloggersWebAPI.csproj|solutionrelative:bloggerswebapi\\bloggerswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|d:\\clock\\clock\\bloggersolution\\blograzorapp\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F680F8D-F9C8-41C2-BA1E-0727D760C1FD}|BlogRazorApp\\BlogRazorApp.csproj|solutionrelative:blograzorapp\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABEAAAAAMzMzMzPzvxcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:52:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BloggersWebAPI\\Program.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Program.cs",
+              "RelativeToolTip": "BloggersWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:45:51.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BloggersWebAPI.http",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\BloggersWebAPI.http",
+              "RelativeDocumentMoniker": "BloggersWebAPI\\BloggersWebAPI.http",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\BloggersWebAPI.http",
+              "RelativeToolTip": "BloggersWebAPI\\BloggersWebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-24T11:45:41.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BloggersWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BloggersWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T11:45:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Post.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Post.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Post.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Post.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Post.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:41:50.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\login.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\login.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\login.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:02:15.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "BloggersControllerWebAPI\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "BloggersControllerWebAPI\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:57:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "BloggersControllerWebAPI\\Entities\\Blog.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Entities\\Blog.cs",
+              "RelativeToolTip": "BloggersControllerWebAPI\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:40:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "BloggersWebAPI\\Entities\\Blog.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Entities\\Blog.cs",
+              "RelativeToolTip": "BloggersWebAPI\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:27:15.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "BloggersWebAPI\\Entities\\Post.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Entities\\Post.cs",
+              "RelativeToolTip": "BloggersWebAPI\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:28:13.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BloggersWebAPI\\Entities\\Product.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "BloggersWebAPI\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:22:42.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BloggersControllerWebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BloggersControllerWebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:39:18.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlogRazorApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABYAAAAgMzMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T11:32:13.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Program.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Program.cs",
+              "RelativeToolTip": "BlogRazorApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:36:28.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:37:29.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogRazorApp.csproj",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\BlogRazorApp.csproj",
+              "RelativeDocumentMoniker": "BlogRazorApp\\BlogRazorApp.csproj",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\BlogRazorApp.csproj",
+              "RelativeToolTip": "BlogRazorApp\\BlogRazorApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T09:47:49.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "BloggersControllerWebAPI\\Entities\\Post.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Entities\\Post.cs",
+              "RelativeToolTip": "BloggersControllerWebAPI\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:40:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Services.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Services.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Services.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:39:50.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:10:16.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:38:50.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BloggersControllerWebAPI\\Entities\\Product.cs",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersControllerWebAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "BloggersControllerWebAPI\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:40:23.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BloggersWebAPI.csproj",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\BloggersWebAPI.csproj",
+              "RelativeDocumentMoniker": "BloggersWebAPI\\BloggersWebAPI.csproj",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BloggersWebAPI\\BloggersWebAPI.csproj",
+              "RelativeToolTip": "BloggersWebAPI\\BloggersWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T10:22:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "blog.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\blog.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\blog.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\blog.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:51:51.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:38:53.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Aboutus.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Aboutus.cshtml",
+              "RelativeDocumentMoniker": "BlogRazorApp\\Pages\\Aboutus.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\BloggerSolution\\BlogRazorApp\\Pages\\Aboutus.cshtml",
+              "RelativeToolTip": "BlogRazorApp\\Pages\\Aboutus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:40:40.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
