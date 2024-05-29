@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\ebill\\ebill\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|solutionrelative:ebill\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\ebill\\ebill\\views\\ebill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|solutionrelative:ebill\\views\\ebill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\ebill\\ebill\\controllers\\ebillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|solutionrelative:ebill\\controllers\\ebillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\ebill\\ebill\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|solutionrelative:ebill\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|d:\\clock\\clock\\schoolmangement\\websolution\\ebill\\ebill\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1C33EAFB-31C4-4D73-A650-169E674DEE66}|EBill\\EBill.csproj|solutionrelative:ebill\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Views\\EBill\\Index.cshtml",
+              "RelativeDocumentMoniker": "EBill\\Views\\EBill\\Index.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Views\\EBill\\Index.cshtml*",
+              "RelativeToolTip": "EBill\\Views\\EBill\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:54:19.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EBillController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Controllers\\EBillController.cs",
+              "RelativeDocumentMoniker": "EBill\\Controllers\\EBillController.cs",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Controllers\\EBillController.cs",
+              "RelativeToolTip": "EBill\\Controllers\\EBillController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:53:21.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EBill\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EBill\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:51:21.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EBill\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EBill\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:40:19.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Web.config",
+              "RelativeDocumentMoniker": "EBill\\Web.config",
+              "ToolTip": "D:\\Clock\\clock\\SchoolMangement\\WebSolution\\EBill\\EBill\\Web.config",
+              "RelativeToolTip": "EBill\\Web.config",
+              "ViewState": "AQIAAB8AAAAAMjMzMzMLwCwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-28T10:30:01.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
