@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h2>Customer</h2>
+<hr />
+@{
+    List<Customer> customers = (List<Customer>)ViewData["allproducts"];
+    <ol>
+        @foreach (Customer customer in customers)
+        {
+            <li> <a href="/customers/index/@customer.Id">@customer.Name</a></li>
+        }
+    </ol>
+}

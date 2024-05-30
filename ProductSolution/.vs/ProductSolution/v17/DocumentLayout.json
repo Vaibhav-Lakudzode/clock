@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clock\\clock\\clock\\ProductSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|d:\\clock\\clock\\clock\\productsolution\\productsolution\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|solutionrelative:productsolution\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77907954-14A3-438B-9927-1CD745E6EE40}|C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\BloggersParadise.csproj|c:\\users\\admin\\downloads\\bloggersolution\\bloggersparadise\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|d:\\clock\\clock\\clock\\productsolution\\productsolution\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|solutionrelative:productsolution\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|d:\\clock\\clock\\clock\\productsolution\\productsolution\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|solutionrelative:productsolution\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|d:\\clock\\clock\\clock\\productsolution\\productsolution\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|solutionrelative:productsolution\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77907954-14A3-438B-9927-1CD745E6EE40}|C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\BloggersParadise.csproj|c:\\users\\admin\\downloads\\bloggersolution\\bloggersparadise\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|d:\\clock\\clock\\clock\\productsolution\\productsolution\\views\\customer\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|solutionrelative:productsolution\\views\\customer\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|d:\\clock\\clock\\clock\\productsolution\\productsolution\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|solutionrelative:productsolution\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77907954-14A3-438B-9927-1CD745E6EE40}|C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\BloggersParadise.csproj|c:\\users\\admin\\downloads\\bloggersolution\\bloggersparadise\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77907954-14A3-438B-9927-1CD745E6EE40}|C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\BloggersParadise.csproj|c:\\users\\admin\\downloads\\bloggersolution\\bloggersparadise\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|d:\\clock\\clock\\clock\\productsolution\\productsolution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB7286F-5260-4E2E-9C86-E11FB6B1C749}|ProductSolution\\ProductSolution.csproj|solutionrelative:productsolution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:10:35.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProductSolution\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "ProductSolution\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:10:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProductSolution\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProductSolution\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:09:25.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:02:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Customer\\Update.cshtml",
+              "RelativeDocumentMoniker": "ProductSolution\\Views\\Customer\\Update.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Customer\\Update.cshtml",
+              "RelativeToolTip": "ProductSolution\\Views\\Customer\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:02:14.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductSolution\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "ProductSolution\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:01:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:00:19.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\BloggerSolution\\BloggersParadise\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:00:12.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Customer\\About.cshtml",
+              "RelativeDocumentMoniker": "ProductSolution\\Views\\Customer\\About.cshtml",
+              "ToolTip": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Views\\Customer\\About.cshtml",
+              "RelativeToolTip": "ProductSolution\\Views\\Customer\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T10:56:44.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ProductSolution\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ProductSolution\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:52:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductSolution\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Clock\\clock\\clock\\ProductSolution\\ProductSolution\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductSolution\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAZmZmZmYSwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:52:42.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
